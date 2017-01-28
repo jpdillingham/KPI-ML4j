@@ -1,7 +1,7 @@
 # KPI-ML4j
 
 [![Build Status](https://travis-ci.org/jpdillingham/KPI-ML4j.svg?branch=master)](https://travis-ci.org/jpdillingham/KPI-ML4j)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jpdillingham/KPI-ML.NET/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jpdillingham/KPI-ML4j/blob/master/LICENSE)
 
 A Java Package containing an implementation of the MESA International standard KPI-ML.
 
