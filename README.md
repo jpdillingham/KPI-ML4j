@@ -1,5 +1,6 @@
 # KPI-ML4j
 
+[![Build status](https://ci.appveyor.com/api/projects/status/hfse53rwalkfbfyq?svg=true)](https://ci.appveyor.com/project/jpdillingham/kpi-ml4j)
 [![Build Status](https://travis-ci.org/jpdillingham/KPI-ML4j.svg?branch=master)](https://travis-ci.org/jpdillingham/KPI-ML4j)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jpdillingham/KPI-ML4j/blob/master/LICENSE)
 
